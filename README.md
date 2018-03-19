@@ -17,6 +17,7 @@ npm start
 Files are compiled into /src
 
 ## PDF Version
+open
 ```bash
-open LoopLab.pdf
+LoopLab.pdf
 ```
